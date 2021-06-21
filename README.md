@@ -34,3 +34,4 @@ It is important to ensure that the wasteboard is fastened to the CNC bed before 
 - The screws for the wasteboard are M4-0.7 in size.  The included screws are 25 mm in length.
 - The CNC bed is 1.5 cm tall, and screws should not protrude through the bottom of the bed because they may obstruct the mechanics underneath.
 - There is approximately 61 mm of height between the CNC bed and the tool collet at the highest Z position.  With most CNC tools being about 38 mm in height, the wasteboard thickness should not exceed 20 mm.  At 20 mm, there will be only about a 3 mm maximum gap to change tools.
+- It's perfectly reasonable to countersink the wasteboard bed screw holes to use shorter screws.  A drill bit larger than the screw head or a countersink bit will both work great.
